@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @varunprasannan
-- 👀 I’m interested in Web Development and iOS App Development
-- 🌱 I’m currently learning React & Swift
 - 📫 How to reach me => {
   📧email - vprasannan4@gmail.com
   📱instagram - @varunprasannan

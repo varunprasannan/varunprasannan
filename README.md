@@ -1,7 +1,7 @@
 # 💫 About Me:
 - My name is Varun Prasannan
 - Currently working @AFour Technologies Pvt. Ltd
-- I am a Software Development and Machine Learning enthusiast
+- Software Development and Machine Learning enthusiast
 - Always ready to learn new technologies
 
 
